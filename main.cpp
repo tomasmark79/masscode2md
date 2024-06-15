@@ -6,6 +6,44 @@
 using namespace std;
 using json = nlohmann::json;
 
+// MIT License
+
+// Copyright (c) 2024 Tomas Mark (tomas@digitalspace.name)
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy
+// of this software and associated documentation files (the "Software"), to deal
+// in the Software without restriction, including without limitation the rights
+// to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+// copies of the Software, and to permit persons to whom the Software is
+// furnished to do so, subject to the following conditions:
+
+// The above copyright notice and this permission notice shall be included in all
+// copies or substantial portions of the Software.
+
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+// IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+// FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+// AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+// LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+// OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+// SOFTWARE.
+
+// masscode2md
+// This project is for an export the massCode snippets to the MarkDown files
+// each exported MarkDown file is located within the same folder as in MassCode defined
+// Dependencies
+// C++ 17
+// Configuration
+// Set the path to the MassCode JSON file
+// std::string jsonFilePath = "/home/tomas/projects/cpp/masscode2md/db.json";
+
+// Set Output directory
+// std::string outputDir = "/home/tomas/joplin-output/";
+
+// Why?
+// I like Joplin 😉
+// That's all!
+
 int main()
 {
     printf("Hello, from masscode2md!\n");
