@@ -1,5 +1,3 @@
-Sure! Here is the `README.md` file in English:
-
 ```markdown
 # masscode2md
 
