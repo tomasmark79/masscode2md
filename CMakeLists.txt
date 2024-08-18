@@ -9,3 +9,4 @@ target_include_directories(masscode2md PUBLIC
     ${PROJECT_SOURCE_DIR}
     ${LOHHM_HPP_DIR}/
 )
+
