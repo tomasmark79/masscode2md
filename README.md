@@ -1,3 +1,6 @@
+TODO: Transformation to MarkWare VCMake Structure
+
+
 # masscode2md
 
 `masscode2md` is a lightweight tool designed to convert code snippets stored in JSON format into organized Markdown files. The tool reads a JSON file containing code snippets and automatically arranges them into directories based on the provided structure in the JSON file.
